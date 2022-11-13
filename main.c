@@ -1,4 +1,3 @@
-//CEM BAYIR 160202066
 #include <stdio.h>
 #include <stdlib.h>
 struct lab{
